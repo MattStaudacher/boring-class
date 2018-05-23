@@ -1,0 +1,13 @@
+h2.intro{
+text-decoration-color: red;
+color: purple;
+font-weight: bold;
+}
+
+img.intro{
+  border-radius: 50%;
+}
+p.intro{
+  font-style: oblique;
+  font-size: 30px; 
+}
